@@ -1,5 +1,5 @@
 
-public class Spew {
+public class ExampleSpew {
 
 	public static void main(String[] args) {
 		String s;
